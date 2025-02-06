@@ -51,7 +51,7 @@ public class main {
                 System.out.println("Se sentir muita fraqueza ou cansaco, pode-se ingerir um pouco mais de carboidratos. Manter sempre a ingestao de carboidratos limpos como: Arroz, Batata doce, Batata inglesa, etc");
                     
                     break;
-                
+                TESTEEEEEEEEEEEEEEEEEE
                 case 2:
                 System.out.println("\nVamos manter seu peso de forma saudavel");
 
